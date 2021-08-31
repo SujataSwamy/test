@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.honeywell.hci",
+      "sha256_cert_fingerprints": [
+        "95:05:9E:B0:3D:E7:5D:25:7B:40:65:57:E7:D4:19:81:47:F2:1A:83:58:29:54:80:61:5F:D5:52:5B:1D:B8:97"
+      ]
+    }
+  }
+]
